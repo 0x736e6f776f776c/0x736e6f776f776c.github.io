@@ -12,6 +12,6 @@ This is a list of all the things you'll have to prepare in order to install stoc
   
 * In order to install stock firmware on your S9(+) with Odin, you'll be needing the [Samsung USB Drivers for Windows](https://developer.samsung.com/mobile/android-usb-driver.html). On the page, click on *SAMSUNG_USB_Driver_for_Mobile_Phones.exe(vx.x)*. Download the executable, run it, and follow the steps in the installation wizard.
 * Next up, go to https://www.odinflash.com/. Download the latest version of Odin. This is the software we're going to use to flash the stock firmware onto your device. Unzip the files. You should have the following four files in the unzipped folder:
-![](https://user-images.githubusercontent.com/66011441/120792023-38b11500-c535-11eb-80ee-79b97d77f986.PNG)
+![](https://user-images.githubusercontent.com/66011441/120792023-38b11500-c535-11eb-80ee-79b97d77f986.PNG)\n
   The Odin software is portable, so there's no need to install anything.
 * 
