@@ -1,5 +1,11 @@
 **This is a draft for a guide on how to install stock firmware on a Samsung Galaxy S9/S9+**
-
+## Pre-requisites
+Before you can install stock firmware on your S9/S9+, there's a few things you're going to need to have (done). 
+1. You're going to need a PC/laptop running Windows for this guide.
+2. You'll need a USB cable to connect your phone to your computer.
+3. In developer settings, make sure USB debugging is enabled.
+4. In order to use Odin and flash stock firmware on your device, your bootloader needs to be unlocked. Do NOT just do this if you don't know what you're doing, some S9(+) devices will jail your bootlocker for 7 days if you don't do it the right way. Make sure to do some resarch first.
+5. This is not really a requirement everyone is going to need, but **realise** that flashing stock firmware on your device will factory reset it, meaning everything on your phone will be erased. So if you have anything important on your phone you don't want to lose, back it up!
 ## Preperations
 This is a list of all the things you'll have to prepare in order to install stock firmware on you S9(+), make sure to follow all of these steps:
 * First, go to *Settings*, then go to *About phone*, and note down your model number. You should see something like this:
@@ -10,7 +16,7 @@ This is a list of all the things you'll have to prepare in order to install stoc
   When the download is done, unzip the .zip file (using a program like [WinZip](https://www.winzip.com/win/nl/) or [7-Zip](https://www.7-zip.org/)(my personal favorite)). You should have five files in the decompressed folder, looking something like this:
   ![](https://user-images.githubusercontent.com/66011441/120793245-f12b8880-c536-11eb-8bb2-5289b36b2505.PNG)
 * In order to install stock firmware on your S9(+) with Odin, you'll be needing the [Samsung USB Drivers for Windows](https://developer.samsung.com/mobile/android-usb-driver.html). On the page, click on *SAMSUNG_USB_Driver_for_Mobile_Phones.exe(vx.x)*. Download the executable, run it, and follow the steps in the installation wizard.
-* Next up, go to https://www.odinflash.com/. Download the latest version of Odin. This is the software we're going to use to flash the stock firmware onto your device. Unzip the files. You should have the following four files in the unzipped folder:
+* Next up, go to https://www.odinflash.com/. Download the latest version of Odin. This is the software we're going to use to flash the stock firmware onto your device. Unzip the files. You should have the following four files in the decomrpessed folder:
 ![](https://user-images.githubusercontent.com/66011441/120792023-38b11500-c535-11eb-80ee-79b97d77f986.PNG)  
   The Odin software is portable, so there's no need to install anything.
 * 
