@@ -6,6 +6,7 @@ Before you can flash stock firmware on your S9/S9+, there's a few things you're 
 3. In developer settings, make sure USB debugging is enabled.
 4. In order to use Odin and flash stock firmware on your device, your bootloader needs to be unlocked. Do NOT just do this if you don't know what you're doing, some S9(+) devices will jail your bootlocker for 7 days if you don't do it the right way. Make sure to do some resarch first.
 5. This is not really a requirement everyone is going to need, but **realise** that flashing stock firmware on your device will factory reset it, meaning everything on your phone will be erased. So if you have anything important on your phone you don't want to lose, back it up!
+6. Charging your phone's battery. Make sure it's at least somewhere above 60%, just in case. The closer to 100%, the safer. You can't charge your phone during the flashing process
 ## Preperations
 This is a list of all the things you'll have to prepare in order to install stock firmware on you S9(+), make sure to follow all of these steps:
 * First, go to *Settings*, then go to *About phone*, and note down your model number. You should see something like this:
@@ -31,5 +32,9 @@ If so, you're ready to move on to the actual flashing of the stock firmware.
 1. Start by running the Odin executable we downloaded earlier. A warning will show up, but you can ignore it if you followed all the steps above.
 2. The next thing you want to do is boot into *download mode*. With some custom roms/software you can do this from your phone with fair ease, but I'll use the way everyone can do it on their S9(+).
 3. Turn off your device.
-4. Now we're going to turn it on again, but we'll hold the following combination of buttons at the same time: *Bixby button* + *Power On* + *Volume down*.
-5. Your phone should now have gone into *download mode*. You should see 
+4. Make sure your phone is **not** charging during this process, it should be charged beforehand.
+5. Now we're going to turn it on again, but we'll hold the following combination of buttons at the same time: *Bixby button* + *Power On* + *Volume down*.
+6. Your phone should now have gone into *download mode*. You should see a warning about a custom OS being dangerous. Ignore this.
+7. Press *Volume up*. Your screen should now say *Downloading...* and some other instuctions. Ignore this and connect your phone to your computer with a USB cable.
+8. 
+9. 
