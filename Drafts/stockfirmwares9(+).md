@@ -5,8 +5,8 @@ Before you can flash stock firmware on your S9/S9+, there's a few things you're 
 2. You'll need a USB cable to connect your phone to your computer.
 3. In developer settings, make sure USB debugging is enabled.
 4. In order to use Odin and flash stock firmware on your device, your bootloader needs to be unlocked. Do NOT just do this if you don't know what you're doing, some S9(+) devices will jail your bootlocker for 7 days if you don't do it the right way. Make sure to do some resarch first.
-5. This is not really a requirement everyone is going to need, but **realise** that flashing stock firmware on your device will factory reset it, meaning everything on your phone will be erased. So if you have anything important on your phone you don't want to lose, back it up!
-6. Charging your phone's battery. Make sure it's at least somewhere above 60%, just in case. The closer to 100%, the safer. You can't charge your phone during the flashing process
+5. This is not really a requirement everyone is going to need, but **realise** that flashing stock firmware with the normal CSC file will factory reset your phone, meaning everything on your phone will be erased. So if you have anything important on your phone you don't want to lose, back it up!
+6. Charging your phone's battery. Make sure it's at least somewhere above 60%, just in case. The closer to 100%, the safer. You can't charge your phone during the flashing process.
 ## Preperations
 This is a list of all the things you'll have to prepare in order to install stock firmware on you S9(+), make sure to follow all of these steps:
 * First, go to *Settings*, then go to *About phone*, and note down your model number. You should see something like this:
@@ -37,4 +37,3 @@ If so, you're ready to move on to the actual flashing of the stock firmware.
 6. Your phone should now have gone into *download mode*. You should see a warning about a custom OS being dangerous. Ignore this.
 7. Press *Volume up*. Your screen should now say *Downloading...* and some other instuctions. Ignore this and connect your phone to your computer with a USB cable.
 8. 
-9. 
