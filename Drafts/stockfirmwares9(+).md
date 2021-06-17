@@ -25,7 +25,7 @@ If you've followed the steps above, you should now have:
 1. A folder with stock files for your S9(+)
 2. A folder with Odin Download
 3. The Samsung USB Drivers installed on you computer
-4. A Samsung Galaxy S9 or S9+, with a well-charged battery, an unlocked bootloader, and USB debugging turned on
+4. A Samsung Galaxy S9 or S9+, with a well-charged battery, an unlocked bootloader, and USB debugging turned on\
 If so, you're ready to move on to the actual flashing of the stock firmware.
 
 ## Flashing stock firmware with Odin
