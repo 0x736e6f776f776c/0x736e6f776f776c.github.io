@@ -1,3 +1,4 @@
+# Flashing stock firmware (OFW) on a Samsung Galaxy S9/Samsung Galaxy S9+
 ## Pre-requisites
 Before you can flash stock firmware on your S9/S9+, there's a few things you're going to need to have (done). 
 1. You're going to need a PC/laptop running Windows for this guide.
