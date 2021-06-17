@@ -29,11 +29,21 @@ This is a list of all the things you'll have to prepare in order to install stoc
 If so, you're ready to move on to the actual flashing of the stock firmware.
 
 ## Flashing stock firmware with Odin
-1. Start by running the Odin executable we downloaded earlier. A warning will show up, but you can ignore it if you followed all the steps above.
+1. Start by running the Odin executable we downloaded earlier. A warning will show up, but you can ignore it as you'll be fine if you followed all the steps above.
 2. The next thing you want to do is boot into *download mode*. With some custom roms/software you can do this from your phone with fair ease, but I'll use the way everyone can do it on their S9(+).
 3. Turn off your device.
 4. Make sure your phone is **not** charging during this process, it should be charged beforehand.
 5. Now we're going to turn it on again, but we'll hold the following combination of buttons at the same time: *Bixby button* + *Power On* + *Volume down*.
 6. Your phone should now have gone into *download mode*. You should see a warning about a custom OS being dangerous. Ignore this.
 7. Press *Volume up*. Your screen should now say *Downloading...* and some other instuctions. Ignore this and connect your phone to your computer with a USB cable.
-8. 
+8. Now go to Odin on your computer.
+9. You'll see five fields with acronyms in front of them. This is where the stock files will go. It should look like this:
+![](https://user-images.githubusercontent.com/66011441/122463849-6c208480-cfb6-11eb-9966-f6d0c78af238.PNG)
+11. Click on the first one, *BL*. Go to the folder with the stock files you download earlier and choose the file which starts with *BL*. Do the same thing for *AP*, choosing the file starting with *AP*, *CP* for *CP*.
+12. You've probably noticed how there's still two fields left. The *USERDATA* field will remain empty. In the *CSC* field, you have two options. You can choose the file starting with *CSC* to wipe all your phone's data after flashing the stock rom, or otherwise the file starting with *HOME_CSC* to keep your phone's data after flashing the rom. If you're going with the data wipe, do not forget to backup any important data beforehand.
+13. Now your Odin window should look something like this:
+![](https://user-images.githubusercontent.com/66011441/122465366-4f854c00-cfb8-11eb-89f5-636492ddbf55.PNG)
+  If that's the case, go ahead and make sure the boxes *Auto Reboot* and *F.Reset.Time* in Odin are ticked.
+13. Now if you've done all of this, you phone is connected and you're ready, hit the *Start* button.
+14. Wait for the flashing process to finish. You're phone will reboot, which will take a few minutes. After rebooting, disconnect your phone from your computer. 
+If everything went right, you have now succesfully flashed stock firmware onto you Samsung Galaxy S9/Samsung Galaxy S9+! Enjoy.
