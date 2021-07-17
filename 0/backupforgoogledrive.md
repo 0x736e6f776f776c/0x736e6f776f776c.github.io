@@ -5,7 +5,7 @@ If you use a lot of Google Drives, you know what a hussle it can be to copy all 
 In order for the program to be able to view your files, make copies of them and place the copies in the given destiantion(s), you will have to give the program access to your files to do exactly that. In order for the program to make proper copies, it also needs access to the metadata of files in your Drives. The information is only used by the program in order to do its job, and the info is not collected by me and certainly not shared with anyone. For more information on the use of data, check the [Privacy Policy](https://sites.google.com/view/privacypolicybackupfordrive/home)
 
 ## How to use the program
-If you wish to use the program, just go the program's [Github page](https://github.com/techsnowowl/Backup-for-Google-Drive), scroll down, and you'll see the ReadMe with instructions on how to download and run the program.
+If you wish to use the program, just go the program's [Github repository](https://github.com/techsnowowl/Backup-for-Google-Drive), scroll down, and you'll see the ReadMe with instructions on how to download and run the program.
 
 ## Important things to know about the program
 - In order for the program to be able to copy the files from one place to another, the Google account you log in with must have access to said files, and it must also have the permissions to make copies, and move those copies to another Drive, if that's what you want to do.
