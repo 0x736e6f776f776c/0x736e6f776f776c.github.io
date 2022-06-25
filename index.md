@@ -3,4 +3,4 @@ Welcome to my website! My name is Vladimir, but I also go by the alias of 0x736e
 
 ## Index
 * [Flashing stock firmware (OFW) on a Samsung Galaxy S9/Samsung Galaxy S9+](https://0x736e6f776f776c.github.io/0/backupforgoogledrive)
-* [Easily make mass copies of your Google Drive files](https://www.0x736e6f776f776c.github.io/0/backupforgoogledrive)
+* [Easily make mass copies of your Google Drive files](https://0x736e6f776f776c.github.io/0/backupforgoogledrive)
