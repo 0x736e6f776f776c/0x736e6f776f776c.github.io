@@ -1,5 +1,7 @@
+<p align="center">
 Google Drive Replicator 
-
+</p>
+  
 ![](https://lh3.googleusercontent.com/za4H1cTGP1Fu1_l_UnplnlhqSw-f-ApymV0-LxQv_tuJy862e8BG1KdNAAwra0Pndg)
 
 If you use a lot of Google Drives, you know what a hussle it can be to copy multiple files from one place to another, especially if they're all in different folders. I had the same issue, and so I coded a tool to make fast backups of full Drives or folders. You just give the program the info it needs, authenticate with your Google account, and you can sit back while all your files are being copied to your desired destination(s).
