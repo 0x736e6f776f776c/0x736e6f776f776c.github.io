@@ -1,4 +1,2 @@
 # TechSnowowl
-
-## My website/blog
-Welcome!
+My website/blog
