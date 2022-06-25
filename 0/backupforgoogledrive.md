@@ -1,5 +1,5 @@
 <p align="center">
-  ## Google Drive Replicator 
+  Google Drive Replicator 
 </p>
 
 <p align="center">
