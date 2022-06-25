@@ -1,5 +1,5 @@
 <p align="center">
-<span style="text-decoration: underline"># Google Drive Replicator</span> 
+  # Google Drive Replicator 
 </p>
 
 <p align="center">
