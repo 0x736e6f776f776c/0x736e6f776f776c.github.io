@@ -4,7 +4,7 @@ Google Drive Replicator
 
 <p align="center">
 
-  <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://lh3.googleusercontent.com/za4H1cTGP1Fu1_l_UnplnlhqSw-f-ApymV0-LxQv_tuJy862e8BG1KdNAAwra0Pndg)" alt="Backup logo">
+ ![](https://lh3.googleusercontent.com/za4H1cTGP1Fu1_l_UnplnlhqSw-f-ApymV0-LxQv_tuJy862e8BG1KdNAAwra0Pndg)
 
 </p>
 
