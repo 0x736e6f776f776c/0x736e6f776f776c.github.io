@@ -1,7 +1,5 @@
 <p align="center">
 Google Drive Replicator 
- 
-![](https://lh3.googleusercontent.com/za4H1cTGP1Fu1_l_UnplnlhqSw-f-ApymV0-LxQv_tuJy862e8BG1KdNAAwra0Pndg)
 </p>
 
 <p align="center">
