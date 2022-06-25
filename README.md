@@ -1,4 +1,4 @@
-# TechSnowOwl
+# TechSnowowl
 
 ## My website/blog
 Welcome!
